@@ -176,7 +176,7 @@ public class Wordsearch {
 					}
 				}
 
-				// direction 5 - diagnal up right
+				
 
 			}
 
